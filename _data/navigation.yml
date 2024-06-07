@@ -1,9 +1,9 @@
-- name: Pricing
-  link: /pricing/
-  new_window: false
-  highlight: false
 - name: Blog
   link: /blog/
+  new_window: false
+  highlight: false
+- name: Resources
+  link: /resources/
   new_window: false
   highlight: false
 - name: About
