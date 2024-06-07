@@ -2,7 +2,7 @@
 layout: post
 title:  The different types of sensor for Methane monitoring
 date:   2024-02-02 10:05:55 +0300
-image:  /assets/images/blog/sensors.jpg
+image:  /assets/images/sensors.jpg
 author: methanefix
 tags:   sensor
 ---

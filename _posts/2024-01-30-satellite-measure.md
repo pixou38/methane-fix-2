@@ -2,7 +2,7 @@
 layout: post
 title:  How satellites imagery helps detect methane leaks
 date:   2017-05-26 10:05:55 +0300
-image:  /assets/images/blog/satellite-methane.jpg
+image:  /assets/images/satellite-methane.jpg
 author: methanefix
 tags:   sensor
 ---

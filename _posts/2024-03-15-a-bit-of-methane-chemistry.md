@@ -2,7 +2,7 @@
 layout: post
 title:  "A bit of Methane atmospheric chemistry"
 date:   2024-03-15 10:05:55 +0300
-image:  /assets/images/blog/methaneplant.jpg
+image:  /assets/images/methaneplant.jpg
 author: methanefix
 tags:   removal
 ---
